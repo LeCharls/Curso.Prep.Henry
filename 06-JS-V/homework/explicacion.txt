@@ -1,0 +1,6 @@
+Prototype: Es una propiedad de clases, se utiliza para asignar metodos a class que se seran
+            utilizadas por los objetos. De esta forma se realiza un codigo que optimiza los recursos
+            del sistema
+
+Constructor: Es una metodo exclusivo de class, es una sintaxis nueva de ES6, utilizada para crear
+            o iniciaizar objetos a partir de una clase.
